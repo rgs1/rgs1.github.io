@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>random.itevenworks.net</title>
+ <link href="http://random.itevenworks.net/" rel="self"/>
+ <link href="http://random.itevenworks.net"/>
+ <updated>2014-01-09T21:26:46-08:00</updated>
+ <id>http://random.itevenworks.net</id>
+ <author>
+   <name>rgs</name>
+   <email>rgs@itevenworks.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Moving to jekyll/github</title>
+   <link href="http://random.itevenworks.net/random/2014/01/09/moving-to-jekyllgithub"/>
+   <updated>2014-01-09T00:00:00-08:00</updated>
+   <id>http://random.itevenworks.net/random/2014/01/09/moving-to-jekyllgithub</id>
+   <content type="html">&lt;p&gt;It’s been a while since I’ve noticed that WordPress wasn’t the right tool for publishing so I’ve decided to give the jekyll/github combo a try. Lets see how it goes.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

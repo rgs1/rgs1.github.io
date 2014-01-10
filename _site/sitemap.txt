@@ -1,0 +1,11 @@
+
+http://random.itevenworks.net/sitemap.txt
+http://random.itevenworks.net/categories.html
+http://random.itevenworks.net/rss.xml
+http://random.itevenworks.net/pages.html
+http://random.itevenworks.net/tags.html
+http://random.itevenworks.net/archive.html
+http://random.itevenworks.net/index.html
+http://random.itevenworks.net/atom.xml
+
+http://random.itevenworks.net/random/2014/01/09/moving-to-jekyllgithub
